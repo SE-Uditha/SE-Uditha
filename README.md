@@ -67,7 +67,7 @@
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=YOUR_ACTUAL_USERNAME&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=SE-Uditha&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -78,7 +78,7 @@
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/YOUR_USERNAME)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/SE-Uditha)
 
 </div>
 
